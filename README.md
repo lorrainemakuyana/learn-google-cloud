@@ -1,1 +1,1 @@
-# learn-google-cloud
+# Google Cloud Platform
